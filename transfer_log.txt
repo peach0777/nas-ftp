@@ -1,0 +1,61 @@
+2025-03-03 04:28:48 - info: Connected to FTP server: darwin7771.synology.me
+2025-03-03 04:28:49 - info: Successfully logged in to FTP server with username: funkit
+2025-03-03 04:28:52 - info: Moved /他社物件/property_images/rent/162671/20230914/10.jpg
+2025-03-03 04:28:55 - info: Moved /他社物件/property_images/rent/162671/20230914/9.jpg
+2025-03-03 04:28:59 - info: Moved /他社物件/property_images/rent/162671/20230914/8.jpg
+2025-03-03 04:29:02 - info: Moved /他社物件/property_images/rent/162671/20230914/7.jpg
+2025-03-03 04:29:05 - info: Moved /他社物件/property_images/rent/162671/20230914/5.jpg
+2025-03-03 04:29:08 - info: Moved /他社物件/property_images/rent/162671/20230914/4.jpg
+2025-03-03 04:29:11 - info: Moved /他社物件/property_images/rent/162671/20230914/3.jpg
+2025-03-03 04:29:14 - info: Moved /他社物件/property_images/rent/162671/20230914/2.jpg
+2025-03-03 04:29:19 - info: Moved /他社物件/property_images/rent/162671/20230914/1.jpg
+2025-03-03 04:29:22 - info: Moved /他社物件/property_images/rent/162673/20230914/11.jpg
+2025-03-03 04:29:26 - info: Moved /他社物件/property_images/rent/162673/20230914/10.jpg
+2025-03-03 04:29:29 - info: Moved /他社物件/property_images/rent/162673/20230914/3.jpg
+2025-03-03 04:29:33 - info: Moved /他社物件/property_images/rent/162673/20230914/9.jpg
+2025-03-03 04:29:36 - info: Moved /他社物件/property_images/rent/162673/20230914/8.jpg
+2025-03-03 04:29:39 - info: Moved /他社物件/property_images/rent/162673/20230914/7.jpg
+2025-03-03 04:29:42 - info: Moved /他社物件/property_images/rent/162673/20230914/2.jpg
+2025-03-03 04:29:46 - info: Moved /他社物件/property_images/rent/162673/20230914/6.jpg
+2025-03-03 05:02:01 - info: Connected to FTP server: darwin7771.synology.me
+2025-03-03 05:02:02 - info: Successfully logged in to FTP server with username: funkit
+2025-03-03 05:02:05 - info: Moved /他社物件/property_images/rent/162673/20230914/5.jpg
+2025-03-03 05:02:08 - info: Moved /他社物件/property_images/rent/162673/20230914/12.jpg
+2025-03-03 05:02:12 - info: Moved /他社物件/property_images/rent/162673/20230914/13.jpg
+2025-03-03 05:02:16 - info: Moved /他社物件/property_images/rent/162673/20230914/14.jpg
+2025-03-03 05:02:20 - info: Moved /他社物件/property_images/rent/162673/20230914/15.jpg
+2025-03-03 05:02:23 - info: Moved /他社物件/property_images/rent/162673/20230914/16.jpg
+2025-03-03 05:02:26 - info: Moved /他社物件/property_images/rent/162673/20230914/17.jpg
+2025-03-03 05:02:30 - info: Moved /他社物件/property_images/rent/162673/20230914/1.jpg
+2025-03-03 05:02:33 - info: Moved /他社物件/property_images/rent/162673/20230914/4.jpg
+2025-03-03 05:02:38 - info: Moved /他社物件/property_images/rent/162675/20230914/10.jpg
+2025-03-03 05:02:40 - info: Moved /他社物件/property_images/rent/162675/20230914/20.jpg
+2025-03-03 05:02:44 - info: Moved /他社物件/property_images/rent/162675/20230914/19.jpg
+2025-03-03 05:02:47 - info: Moved /他社物件/property_images/rent/162675/20230914/18.jpg
+2025-03-03 05:02:51 - info: Moved /他社物件/property_images/rent/162675/20230914/17.jpg
+2025-03-03 05:02:55 - info: Moved /他社物件/property_images/rent/162675/20230914/16.jpg
+2025-03-03 05:02:58 - info: Moved /他社物件/property_images/rent/162675/20230914/15.jpg
+2025-03-03 05:03:00 - info: Moved /他社物件/property_images/rent/162675/20230914/14.jpg
+2025-03-03 05:07:36 - info: Connected to FTP server: darwin7771.synology.me
+2025-03-03 05:07:37 - info: Successfully logged in to FTP server with username: funkit
+2025-03-03 05:07:40 - info: Moved /他社物件/property_images/rent/162675/20230914/13.jpg
+2025-03-03 05:07:42 - info: Moved /他社物件/property_images/rent/162675/20230914/12.jpg
+2025-03-03 05:07:44 - info: Moved /他社物件/property_images/rent/162675/20230914/11.jpg
+2025-03-03 05:07:47 - info: Moved /他社物件/property_images/rent/162675/20230914/9.jpg
+2025-03-03 05:07:50 - info: Moved /他社物件/property_images/rent/162675/20230914/8.jpg
+2025-03-03 05:07:54 - info: Moved /他社物件/property_images/rent/162675/20230914/7.jpg
+2025-03-03 05:07:57 - info: Moved /他社物件/property_images/rent/162675/20230914/6.jpg
+2025-03-03 05:08:01 - info: Moved /他社物件/property_images/rent/162675/20230914/5.jpg
+2025-03-03 05:08:04 - info: Moved /他社物件/property_images/rent/162675/20230914/4.jpg
+2025-03-03 05:08:08 - info: Moved /他社物件/property_images/rent/162675/20230914/3.jpg
+2025-03-03 05:08:24 - info: Connected to FTP server: darwin7771.synology.me
+2025-03-03 05:08:24 - info: Successfully logged in to FTP server with username: funkit
+2025-03-03 05:08:28 - info: Moved /他社物件/property_images/rent/162675/20230914/2.jpg
+2025-03-03 05:08:31 - info: Moved /他社物件/property_images/rent/162675/20230914/1.jpg
+2025-03-03 05:08:34 - info: Moved /他社物件/property_images/rent/162677/20240201/12.jpg
+2025-03-03 05:08:37 - info: Moved /他社物件/property_images/rent/162677/20240201/11.jpg
+2025-03-03 05:08:40 - info: Moved /他社物件/property_images/rent/162677/20240201/10.jpg
+2025-03-03 05:08:44 - info: Moved /他社物件/property_images/rent/162677/20240201/9.jpg
+2025-03-03 05:08:46 - info: Moved /他社物件/property_images/rent/162677/20240201/8.jpg
+2025-03-03 05:08:50 - info: Moved /他社物件/property_images/rent/162677/20240201/7.jpg
+2025-03-03 05:08:53 - info: Moved /他社物件/property_images/rent/162677/20240201/6.jpg
